@@ -76,3 +76,10 @@ Soft_Dec_combine_BLNMS_dyn.m
   Implements the Quaternary Block-Layered Normalized Min-Sum (QBLNMS) decoding algorithm
   — the most refined version, which processes the block-layers with dynamic alpha/beta 
   adaptation for each block layer in each iteration for faster convergence and better results.
+
+
+
+OTHER FILES
+-----------
+4_cycles_in_CSS.pdf 
+- This pdf includes the proof for the inevitability of 4-cycles in Tanner graphs of CSS codes
